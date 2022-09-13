@@ -29,8 +29,7 @@ Edexcel AS Level এ চারটি সাবজেক্টে A পেয়ে�
 |![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)|🐣|||
 
 ## 💼 পেশাদার যোগাযোগ
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[LinkedIn](https://www.linkedin.com/in/dewanmukto/)
 
 ###### ব্যাজগুলো ডিজাইন করেছেন [আলেক্সান্দ্রে সানলিম](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
