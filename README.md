@@ -28,8 +28,8 @@ Edexcel AS Level এ চারটি সাবজেক্টে A পেয়ে�
 |![](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)|🐣|![](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)|🟠🟠|||
 |![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)|🐣|||
 
-## 💼 পেশাদার যোগাযোগ
-[LinkedIn](https://www.linkedin.com/in/dewanmukto/)
+## 💼 বৃত্তিমূলক যোগাযোগ
+[🔗 **∎⟬ LinkedIn ⟭∎**](https://www.linkedin.com/in/dewanmukto/)
 
 ###### ব্যাজগুলো ডিজাইন করেছেন [আলেক্সান্দ্রে সানলিম](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
