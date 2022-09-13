@@ -1,19 +1,17 @@
 ## 🙋‍♂️ পরিচয় 
 ```
 আমার নাম দেওয়ান মাকসুদুল ইসলাম মুক্তো। 
-সিলেটে আমার জন্ম। আনান্দনিকেতন স্কুল থেকে IGCSE তে আঠটা সাবজেক্টে ৯ পেয়েছি।
-AS Level এ চারটি সাবজেক্টে A পেয়েছি। IELTS এ ৮.৫ পেয়েছি। 
+সিলেটে আমার জন্ম। আনান্দনিকেতন স্কুল থেকে Pearson Edexcel IGCSE তে আঠটা সাবজেক্টে ৯ পেয়েছি।
+Edexcel AS Level এ চারটি সাবজেক্টে A পেয়েছি। IELTS এ ৮.৫ পেয়েছি। 
 বর্তমানে আমি কানাডার মেমোরিয়াল ইউনিভার্সিটি তে আমার BSc ডিগ্রির জন্য কম্পিউটার সাইন্স এবং অর্থনীতি (মাইনর) পড়ছি। 
 ```
 আমার প্রধান গিটহাব একাউন্ট এখানে: [@dmimukto](https://github.com/dmimukto)
 
-## 🏆 অর্জনতা
+## 📊 পরিসংখ্যান
 
-![](https://github-readme-stats.vercel.app/api?username=dewanmukto-bd&show_icons=true&theme=midnight-purple)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dewanmukto-bd&theme=monokai)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dewanmukto-bd&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dewanmukto-bd&theme=monokai)
-![](https://github-profile-trophy.vercel.app/?username=dewanmukto-bd)
 <br />
 
 ## ⚒️ টুলচেইন
@@ -29,6 +27,10 @@ AS Level এ চারটি সাবজেক্টে A পেয়েছি।
 |![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)|🐣|![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|🔵🔵🔵🔵|||
 |![](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)|🐣|![](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)|🟠🟠|||
 |![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)|🐣|||
+
+## 💼 পেশাদার যোগাযোগ
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ###### ব্যাজগুলো ডিজাইন করেছেন [আলেক্সান্দ্রে সানলিম](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
